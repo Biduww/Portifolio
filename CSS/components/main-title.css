@@ -1,0 +1,12 @@
+.main-title {
+    font-family: 'Squada One', cursive;
+    font-size: 80px;
+    margin-bottom: 15px;
+    margin-top: 66px;
+}
+
+.main-title em {
+    text-decoration: none;
+    text-emphasis: none;
+    font-style: normal;
+}
