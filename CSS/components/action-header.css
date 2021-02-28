@@ -1,0 +1,14 @@
+.action-header {
+    color: white;
+    font-size: 28px;
+    font-family: 'Rajdhani', sans-serif;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px black;
+    margin-right: 40px;
+    transition: transform 200ms linear;
+}
+
+.action-header:hover {
+    color: #ffa569;
+    transform: scale(1.20);
+}

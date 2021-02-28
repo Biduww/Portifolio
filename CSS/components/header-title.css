@@ -1,0 +1,14 @@
+.header-title {
+    display: block;
+    text-align: center;
+
+}
+
+.Htitle-text {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    color: #ffa569;
+    text-shadow: 3px 3px 2px black;
+    margin-top: 20px;
+
+}
